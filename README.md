@@ -1,7 +1,7 @@
-# 🌟 Shubham Kumar3
+# 🌟 Shubham Kumar
 
 **Building Scalable Systems | Backend Engineering | Cloud & Distributed Systems**  
-Passionate about designing scalable backend systems, optimizing performance, and building cloud-native applications. I love solving complex problems with **Spring Boot, Go, and distributed databases**.
+Passionate about architecting high-performance, cloud-native backend systems that scale effortlessly. I thrive on solving complex engineering challenges with **Spring Boot, Go, and distributed databases**, ensuring efficiency, resilience, and seamless user experiences. From microservices to event-driven architectures, I love turning ideas into robust, production-ready solutions.
 
 ---
 
